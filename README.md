@@ -108,6 +108,4 @@ Your go-to page for my skills, projects, and contact info.
   <b>⭐ Thanks for visiting! Feel free to connect and explore my projects.</b>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/gh8vPz9.gif" width="300"/>
-</p>
+ 
