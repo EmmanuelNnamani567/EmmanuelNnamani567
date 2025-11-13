@@ -1,6 +1,6 @@
  <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/82XgF7W.gif" width="700"/>
+  <img src=" https://github.com/EmmanuelNnamani567/EmmanuelNnamani567/blob/main/ChatGPT%20Image%20Nov%2014%2C%202025%2C%2012_20_45%20AM.png" width="700"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Emmanuel Nnamani</h1>
